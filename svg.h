@@ -6,15 +6,16 @@
 #include<stdbool.h> 
 #include"leitura_geo.h"
 
-//Função que imprimi as formas no arquivo .svg
+//Função que imprime as formas no arquivo .svg
 void svg_imprimir_forma(FILE *arqsvg, char tipo[], int id, double x, double y, double r, double w, double h, char corBorda[], char corPreenchimento[]);
 
-//Função que imprimi os texto no arquivo .svg
+//Função que imprime os texto no arquivo .svg
 void svg_imprimirTexto(FILE *arqsvg, int id, double x, double y, char corBorda[], char corPreenchimento[], char conteudo[]);
 
-//Função que imprimi uma linha no arquivo .svg
+//Função que imprime uma linha no arquivo .svg
 void svg_imprimir_linha (FILE *svg, double x1, double y1, double x2, double y2, char cor[]);
 
+//Função que imprime todo o conteudo
 void svg_imprimir_tudo(Elementos_criacao *aux , int contador, FILE *svg);
 
 #endif
