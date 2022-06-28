@@ -1,0 +1,171 @@
+TESTES: 18/18     10,0
+
+- procedimento main muito extenso (+160 linhas!!)
+
+##
+## COMPILANDO  AS SUBMISSOES
+##
+
+====> COMPILANDO: guilhermehgs
+
+## COMPILANDO SUBMISSAO DO ALUNO: /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src
+   > removendo .o pre-existentes 
+  > compilando
+.[2020-08-07T17:25:33.637037].
+.[2020-08-07T17:25:34.604793].
+##
+## TESTANDO AS SUBMISSOES
+##
+
+====> TESTANDO: guilhermehgs
+
+===== EXECUTANDO TESTES: 
+    > dir_tst:/home/evb/Dropbox/ED/CorrTrab/2020/t1/t
+    > dir saida: /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o
+    > prog: /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel
+    > ecpm: False
+    > comVias: False
+    > comBd: False
+   > removendo arquivos  pre-existentes: /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o  *.txt 
+
+   > removendo arquivos  pre-existentes: /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o  *.svg 
+
+   > arq =  /home/evb/Dropbox/ED/CorrTrab/2020/t1/t/hino-01.geo
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f hino-01.geo   
+
+.[2020-08-07T17:25:34.610977].
+   > nomearq: hino-01 
+
+   dirqry: /home/evb/Dropbox/ED/CorrTrab/2020/t1/t/hino-01 
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f hino-01.geo    -q hino-01/paints.qry
+
+.[2020-08-07T17:25:34.640767].
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f hino-01.geo    -q hino-01/delfs.qry
+
+.[2020-08-07T17:25:34.680091].
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f hino-01.geo    -q hino-01/delf.qry
+
+.[2020-08-07T17:25:34.726515].
+   > arq =  /home/evb/Dropbox/ED/CorrTrab/2020/t1/t/hino-txt-001.geo
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f hino-txt-001.geo   
+
+.[2020-08-07T17:25:37.077681].
+   > nomearq: hino-txt-001 
+
+   dirqry: /home/evb/Dropbox/ED/CorrTrab/2020/t1/t/hino-txt-001 
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f hino-txt-001.geo    -q hino-txt-001/paints.qry
+
+.[2020-08-07T17:25:37.084654].
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f hino-txt-001.geo    -q hino-txt-001/delfs.qry
+
+.[2020-08-07T17:25:37.100692].
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f hino-txt-001.geo    -q hino-txt-001/delf.qry
+
+.[2020-08-07T17:25:37.126083].
+   > arq =  /home/evb/Dropbox/ED/CorrTrab/2020/t1/t/inside-circ-01.geo
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f inside-circ-01.geo   
+
+.[2020-08-07T17:25:37.139367].
+   > nomearq: inside-circ-01 
+
+   dirqry: /home/evb/Dropbox/ED/CorrTrab/2020/t1/t/inside-circ-01 
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f inside-circ-01.geo    -q inside-circ-01/q01.qry
+
+.[2020-08-07T17:25:37.145748].
+   > arq =  /home/evb/Dropbox/ED/CorrTrab/2020/t1/t/inside-rect-01.geo
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f inside-rect-01.geo   
+
+.[2020-08-07T17:25:37.151220].
+   > nomearq: inside-rect-01 
+
+   dirqry: /home/evb/Dropbox/ED/CorrTrab/2020/t1/t/inside-rect-01 
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f inside-rect-01.geo    -q inside-rect-01/q01.qry
+
+.[2020-08-07T17:25:37.157128].
+   > arq =  /home/evb/Dropbox/ED/CorrTrab/2020/t1/t/mixed-tests-1-1-1.geo
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f mixed-tests-1-1-1.geo   
+
+.[2020-08-07T17:25:37.164707].
+   > nomearq: mixed-tests-1-1-1 
+
+   dirqry: /home/evb/Dropbox/ED/CorrTrab/2020/t1/t/mixed-tests-1-1-1 
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f mixed-tests-1-1-1.geo    -q mixed-tests-1-1-1/q-over-1.qry
+
+.[2020-08-07T17:25:37.169735].
+   > arq =  /home/evb/Dropbox/ED/CorrTrab/2020/t1/t/mixed-tests-2-1-1.geo
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f mixed-tests-2-1-1.geo   
+
+.[2020-08-07T17:25:37.177800].
+   > nomearq: mixed-tests-2-1-1 
+
+   dirqry: /home/evb/Dropbox/ED/CorrTrab/2020/t1/t/mixed-tests-2-1-1 
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f mixed-tests-2-1-1.geo    -q mixed-tests-2-1-1/q-over-1.qry
+
+.[2020-08-07T17:25:37.183353].
+   > arq =  /home/evb/Dropbox/ED/CorrTrab/2020/t1/t/mixed-tests-2-4-1.geo
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f mixed-tests-2-4-1.geo   
+
+.[2020-08-07T17:25:37.188749].
+   > nomearq: mixed-tests-2-4-1 
+
+   dirqry: /home/evb/Dropbox/ED/CorrTrab/2020/t1/t/mixed-tests-2-4-1 
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f mixed-tests-2-4-1.geo    -q mixed-tests-2-4-1/q-ins-4.qry
+
+.[2020-08-07T17:25:37.193476].
+   > arq =  /home/evb/Dropbox/ED/CorrTrab/2020/t1/t/mixed-tests-5000-2500-2500.geo
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f mixed-tests-5000-2500-2500.geo   
+
+.[2020-08-07T17:25:37.199113].
+   > nomearq: mixed-tests-5000-2500-2500 
+
+   dirqry: /home/evb/Dropbox/ED/CorrTrab/2020/t1/t/mixed-tests-5000-2500-2500 
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f mixed-tests-5000-2500-2500.geo    -q mixed-tests-5000-2500-2500/q-ins-2500.qry
+
+.[2020-08-07T17:25:37.311294].
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f mixed-tests-5000-2500-2500.geo    -q mixed-tests-5000-2500-2500/q-over-2500.qry
+
+.[2020-08-07T17:25:37.975615].
+   > arq =  /home/evb/Dropbox/ED/CorrTrab/2020/t1/t/overlaps-01.geo
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f overlaps-01.geo   
+
+.[2020-08-07T17:25:38.469177].
+   > nomearq: overlaps-01 
+
+   dirqry: /home/evb/Dropbox/ED/CorrTrab/2020/t1/t/overlaps-01 
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f overlaps-01.geo    -q overlaps-01/q-notover.qry
+
+.[2020-08-07T17:25:38.475625].
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f overlaps-01.geo    -q overlaps-01/q-over.qry
+
+.[2020-08-07T17:25:38.480766].
+   > arq =  /home/evb/Dropbox/ED/CorrTrab/2020/t1/t/overlaps-03.geo
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f overlaps-03.geo   
+
+.[2020-08-07T17:25:38.538583].
+   > nomearq: overlaps-03 
+
+   dirqry: /home/evb/Dropbox/ED/CorrTrab/2020/t1/t/overlaps-03 
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f overlaps-03.geo    -q overlaps-03/q01.qry
+
+.[2020-08-07T17:25:38.543195].
+   > arq =  /home/evb/Dropbox/ED/CorrTrab/2020/t1/t/overlaps-05.geo
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f overlaps-05.geo   
+
+.[2020-08-07T17:25:38.548957].
+   > nomearq: overlaps-05 
+
+   dirqry: /home/evb/Dropbox/ED/CorrTrab/2020/t1/t/overlaps-05 
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f overlaps-05.geo    -q overlaps-05/q01.qry
+
+.[2020-08-07T17:25:38.554728].
+   > arq =  /home/evb/Dropbox/ED/CorrTrab/2020/t1/t/overlaps-06.geo
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f overlaps-06.geo   
+
+.[2020-08-07T17:25:38.574450].
+   > nomearq: overlaps-06 
+
+   dirqry: /home/evb/Dropbox/ED/CorrTrab/2020/t1/t/overlaps-06 
+>> /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/src/siguel  -e /home/evb/Dropbox/ED/CorrTrab/2020/t1/t  -o /home/evb/Dropbox/ED/CorrTrab/2020/t1/alunos/guilhermehgs/o -f overlaps-06.geo    -q overlaps-06/q01.qry
+
+.[2020-08-07T17:25:38.585313].
+================================
